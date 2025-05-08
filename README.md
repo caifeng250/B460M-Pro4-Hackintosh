@@ -1,7 +1,7 @@
 
 华擎B460M-Pro4主板的Opencore引导文件，基于OpenCore1.04创建，macOS Sequoia 15.4.1可用。
 
-参考 [OpenCore 简体中文参考手册](https://github.com/SukkaW/OpenCore-Document-zh_Hans)    [OpenCore官网](https://github.com/acidanthera/OpenCorePkg)
+参考 [OpenCore 简体中文参考手册](https://github.com/SukkaW/OpenCore-Document-zh_Hans) [OpenCore官网](https://github.com/acidanthera/OpenCorePkg)
 
 ## 硬件配置
 
@@ -10,13 +10,13 @@
 - MB: ASRock B460M Pro4
 - RAM: Galaxy 16GB (2x8GB) 2666MHz
 - SSD: KIOXIA-EXCERIA G2 NVME 500GB
-- Wireless: 博通DW1560
+- Wireless: BCM94352z/DW1560
 
 ## 驱动成功
 
 有线网卡、无线网卡、蓝牙
-声卡
-显卡
+声卡正常
+显卡正常
 USB已定制
 睡眠正常
 
