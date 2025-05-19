@@ -1,4 +1,3 @@
-
 华擎B460M-Pro4主板的Opencore引导文件，基于OpenCore1.04创建，macOS Sequoia 15.4.1可用。
 
 参考 [OpenCore 简体中文参考手册](https://github.com/SukkaW/OpenCore-Document-zh_Hans) [OpenCore官网](https://github.com/acidanthera/OpenCorePkg)
@@ -14,11 +13,11 @@
 
 ## 驱动成功
 
-有线网卡、无线网卡、蓝牙
-声卡正常
-显卡正常
-USB已定制
-睡眠正常
+有线网卡、无线网卡、蓝牙  
+声卡正常  
+显卡正常  
+USB已定制  
+睡眠正常  
 
 ## 使用须知
 
